@@ -4,7 +4,7 @@
   "description": "Just a Basic ElectronJS App which uses ffmpeg library to find the info about the videos.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "author": "MalwarePerseus",
   "license": "ISC",
