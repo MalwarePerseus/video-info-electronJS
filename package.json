@@ -9,7 +9,7 @@
   "author": "MalwarePerseus",
   "license": "ISC",
   "dependencies": {
-    "electron": "^9.0.0",
+    "electron": "^11.5.0",
     "fluent-ffmpeg": "^2.1.2"
   }
 }
